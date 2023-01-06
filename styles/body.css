@@ -1,0 +1,58 @@
+#info{
+width: 80em;
+padding-top: 2em;
+padding-left: 2em;
+display: inline-block;
+
+}
+
+#ingredients{
+background-color: rgb(120, 85, 54);
+color: rgb(252, 252, 252);
+width: 30em;
+height: 17em;
+padding-left: 2em;
+display: inline-table;
+font-size: 1.2em;
+font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+#time{
+    background-color: rgb(120, 85, 54);
+    color: rgb(252, 252, 252);
+    height: 12em;
+    width: 10em;
+    display: inline-table;
+    margin-left: 18em;
+    padding-left: 2em;
+    padding-right: 1em;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+
+h3{
+    font-size: 1.8em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+p{
+    font-size: 1.5em;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    padding-left: 0.5em;
+}
+
+#preparation{
+    font-size: 1.2em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin-left: 1.8em;
+    margin-top: 2em;
+    background-color: rgb(120, 85, 54);
+    color: rgb(252, 252, 252);
+    width: 68em;
+    height: 17em;
+    padding-left: 2em;
+    padding-top: 1em;
+}

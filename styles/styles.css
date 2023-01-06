@@ -1,0 +1,7 @@
+@import '/styles/body.css';
+@import '/styles/header.css';
+@import '/styles/footer.css';
+
+body{
+    background-color: burlywood;
+}

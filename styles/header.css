@@ -1,0 +1,18 @@
+h1{
+    font-size: 7em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;  
+    font-style: italic;
+}
+
+img{
+    justify-content: center;
+    /* padding-left: 17em; */
+    height: 70vh;
+    width: 60vw;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    margin-left: 17em;
+}
